@@ -6,7 +6,7 @@ export class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}} extends React.Com
 	render() {
 		return ${2:(
 			${3:<div>${0}</div>}
-		);}
+		)}
 	}
 }
 

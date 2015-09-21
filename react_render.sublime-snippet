@@ -3,7 +3,7 @@
 render() {
 	return ${1:(
 		${2:<div>${0}</div>}
-	);}
+	)}
 }
 ]]></content>
     <tabTrigger>ren</tabTrigger>
